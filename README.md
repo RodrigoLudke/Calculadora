@@ -36,40 +36,8 @@ Calculadora/
 
 ---
 
-## 🛠️ Instalação e Execução
-
-1. **Clone o repositório:**
-
-   ```bash
-   git clone https://github.com/RodrigoLudke/Calculadora.git
-   cd Calculadora
-   ```
-
-2. **Crie e ative um ambiente virtual (opcional, mas recomendado):**
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # No Windows: venv\Scripts\activate
-   ```
-
-3. **Instale as dependências:**
-
-   O projeto utiliza apenas bibliotecas padrão do Python, portanto não há dependências externas a serem instaladas.
-
-4. **Execute a aplicação:**
-
-   ```bash
-   python main.py
-   ```
-
----
-
 ## ✅ Requisitos
 
 - Python 3.8 ou superior
 
 ---
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
